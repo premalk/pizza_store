@@ -1,0 +1,66 @@
+[
+  {
+    "title":"Chicago Pizza",
+    "url":"chicago_pizza.jpg",
+    "short_description":"Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in.",
+    "description": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes. This original creation led Sewell to create the now famous chain restaurant, Pizzeria Uno.",
+    "price":50,
+    "product_id":"chicago_pizza"
+  },
+  {
+    "title":"Crust Pizza",
+    "url":"crust_pizza.jpg",
+    "short_description":"Thin crust pizzas are slimmer in the center where the sauce, cheese, and ingredients are placed, but lead up to a crunchy, yet doughy edge.",
+    "description": "Thin crust pizzas are slimmer in the center where the sauce, cheese, and ingredients are placed, but lead up to a crunchy, yet doughy edge. In order to get thinner dough, the key is to gently stretch out the dough to form the edges. Pizzas with thin crusts, like Neapolitan and New York, often don't have many toppings because they can’t handle the weight. If you want to add more toppings to your pie, you can still utilize a thin crust. To do so, simply make the center of the pie a bit thicker.",
+    "price":20,
+    "product_id":"crust_pizza"
+  },
+  {
+    "title":"Sicilian Pizza",
+    "url":"sicilian_pizza.jpg",
+    "short_description":"Sicilian pizza, also known as 'sfincione', provides a thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce.",
+    "description": "Sicilian pizza, also known as 'sfincione', provides a thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce. This square-cut pizza is served with or without cheese, and often with the cheese underneath the sauce to prevent the pie from becoming soggy. Sicilian pizza was brought to America in the 19th century by Sicilian immigrants and became popular in the United States after the Second World War.",
+    "price":12,
+    "product_id":"sicilian_pizza"
+  },
+  {
+    "title":"Louis Pizza",
+    "url":"louis_pizza.jpg",
+    "short_description":"Looking for a light slice? St. Louis pizza features a thin crust with a cracker-like consistency that is made without yeast.",
+    "description": "Looking for a light slice? St. Louis pizza features a thin crust with a cracker-like consistency that is made without yeast. Due to the crispy crust, St. Louis pizza is usually cut into three- or four-inch rectangles, known as 'party' or 'tavern' cut. This pizza features Provel processed cheese, which is a gooey combination of cheddar, Swiss, and provolone cheeses. St. Louis received an influx of Italian immigrants in the 19th century who were looking for employment opportunities. The Italian community, largely from Milan and Sicily, created the St. Louis-style pizza. Its sweet sauce is reminiscent of the Sicilian influence.",
+    "price":14,
+    "product_id":"louise_pizzaa"
+  },
+  {
+    "title":"California Pizza",
+    "url":"cheese_garlic.jpg",
+    "short_description":"California pizza, or gourmet pizza, is known for its unusual ingredients. This pizza got its start back in the late 1970’s.",
+    "description": "California pizza, or gourmet pizza, is known for its unusual ingredients. This pizza got its start back in the late 1970’s when Chef Ed LaDou began experimenting with pizza recipes in the classic Italian restaurant, Prego. He created a pizza with mustard, ricotta, pate, and red pepper, and by chance, served it to Wolfgang Puck. Impressed with LaDou’s innovative pie, Puck invited him to be a head pizza chef at his restaurant. It was here that LaDou came up with over 250 unique pizza recipes that eventually formed the menu of the chain restaurant California Pizza Kitchen.",
+    "price":16,
+    "product_id":"california_pizza"
+  },
+  {
+    "title":"Newyork Pizza",
+    "url":"cheese_tomato.jpg",
+    "short_description":"With its characteristic large, foldable slices and crispy outer crust, New York-style pizza is one of America’s most famous pizza types.",
+    "description": "With its characteristic large, foldable slices and crispy outer crust, New York-style pizza is one of America’s most famous regional pizza types. Originally a variation of Neapolitan-style pizza, the New York slice has taken on a fame all its own, with some saying its unique flavor has to do with the minerals present in New York’s tap water supply.",
+    "price":51,
+    "product_id":"newyork_pizza"
+  },
+  {
+    "title":"Detroit Pizza",
+    "url":"detroit_pizza.jpg",
+    "short_description":"Reflecting the city’s deep ties to the auto industry, Detroit-style pizza was originally baked in a square automotive parts pan in the 1940’s.",
+    "description": "Reflecting the city’s deep ties to the auto industry, Detroit-style pizza was originally baked in a square automotive parts pan in the 1940’s. Detroit pizza is first topped with pepperoni, followed by brick cheese which is spread to the very edges of the pan, yielding a caramelized cheese perimeter. Sauce is then spooned over the pizza, an order similar to Chicago-style pizza. This pizza features a thick, extra crispy crust that is tender and airy on the inside.",
+    "price":65,
+    "product_id":"detroit_pizza"
+  },
+  {
+    "title":"Ohio Walley Pizza",
+    "url":"ohio_walley_pizza.jpg",
+    "short_description":"Backed in a square pan with layer of tomato sauce and thin layer of cheese. Both hot and cool; when taken out, it is covered in cold",
+    "description": "Backed in a square pan with layer of tomato sauce and thin layer of cheese. Both hot and cool; when taken out, it is covered in cold cheese and cold toppings.",
+    "price":34,
+    "product_id":"ohio_walley_pizza"
+  }
+]
